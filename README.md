@@ -39,4 +39,4 @@ ros2 run activity_service_pkg activity_client.py
 
 A detailed project report, demo video, and presentation slides are available here:
 
-🔗 [View Project Drive Folder]([https://drive.google.com/drive/folders/YOUR_FOLDER_ID_HERE](https://drive.google.com/file/d/1TsPNP0Fy6CXUZQLP5DzrkYrlOTOlJWj8/view?usp=sharing))
+🔗 [View Project Drive Folder](https://drive.google.com/file/d/1TsPNP0Fy6CXUZQLP5DzrkYrlOTOlJWj8/view?usp=sharing)
